@@ -1,4 +1,4 @@
-<img src="[img_girl.jpg](https://giphy.com/embed/UO5elnTqo4vSg" width="480" height="442"></img>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI4bW92cDNnbnFzN3hyejV0NXExeDM5cjIxYWk0ZGowd3l6bjFxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.webp" width="480" height="500"></img>
 # Evolução de Aprendizagem
 
 # Módulo 2
