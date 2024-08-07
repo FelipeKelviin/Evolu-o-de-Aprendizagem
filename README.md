@@ -24,4 +24,7 @@
 
 
   ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
-  ... em breve te falo
+- Aprendi Tipos de Ultilitários para facilitações para coda, reduzindo linhas de codigos desnecessarios
+- Métodos de Arrays
+- Tipos de Dados
+- Funções
